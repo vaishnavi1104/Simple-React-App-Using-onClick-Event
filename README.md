@@ -1,3 +1,4 @@
 # LGM-VIP-WEB-DEVELOPMENT-TASK-2-REACT-APP
-LGM VIP WEB DEVELOPMENT TASK-2 CREATE REACT APP  USING REACT-JS HTML CSS AND JAVASCRIPT
+Internship task  - Create ReactApp Using ReactJs oclick event and fetch users from API.
+
 
